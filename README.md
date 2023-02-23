@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-I should go to yout college.
+I should go to your college.
